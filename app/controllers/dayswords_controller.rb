@@ -1,0 +1,2 @@
+class DayswordsController < ApplicationController
+end
